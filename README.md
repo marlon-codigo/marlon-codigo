@@ -55,5 +55,4 @@
 
 - 🌱 I am currently exploring topics related to Solana, Blockchain.
 - 💬 Feel free to ask me about software engineering, blockchain, or anything else related to software development.
-- 📫 How to reach me: You can email me at marlon.yepes@codigo.ai.
 - 😄 Pronouns: Whatever you prefer.
